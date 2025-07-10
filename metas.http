@@ -1,0 +1,6 @@
+@metas_HostAddress = http://localhost:5023
+
+GET {{metas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
